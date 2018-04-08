@@ -1,0 +1,13 @@
+Graph: AB5, BC4, CD8, DC8, DE6, AD5, CE2, EB3, AE7
+option:1,A-B-C
+option:1,A-D
+option:1,A-D-C
+option:1,A-E-B-C-D
+option:1,A-E-D
+option:2,C-C-3
+option:3,A-C-4
+option:4,A-C
+option:4,B-B
+option:5,C-C-30
+
+
